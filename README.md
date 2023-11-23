@@ -5,7 +5,7 @@ In the context of post-humanism challenging anthropocentrism and the rapid devel
 
 ### 🎬 Video: https://youtu.be/H2O9SunuKBY?si=hj6GO8Pgn_o4fkHI
 
-<img src = "https://github.com/YutianWeii/jpg/blob/main/1.png" width = "800px">
+<img src = "https://github.com/YutianWeii/jpg/blob/main/1.png" width = "700px">
 
 ## My Blog
 ### June 2023
