@@ -7,8 +7,7 @@
 
 ## My Blog
 ### June 2023
-📅 In the first week, I determined the project theme and established contact with my supervisor, Adam Cole. Here is the initial project concept I wrote: In the second week, I scheduled our first meeting with Adam and prepared for it.
-
+📅 In the first week, I determined the project theme and established contact with my supervisor, Adam Cole. I scheduled our first meeting with Adam and prepared for it. Here is the initial project concept I wrote:
 I want to continue researching "AI as an Art Audience" based on my previous paper. If you're interested, please visit: https://www.dropbox.com/s/45cheoq7m0bvucc/Final%20essay-Yutian%20Wei.pdf?dl=0
 From a Post-humanist perspective, the line between non-human and human is blurred. However, most artworks today are created for human viewers. I believe considering non-human entities as art audiences will bring new possibilities, elevating AI from a tool to a viewer itself. I have two ideas now: 1.Making AI respond to artworks through code, potentially involving the differences in how different AI models perceive things. 2.Presenting the content that AI could potentially "see" to humans. This allows humans to experience art from the AI's perspective, leading to unconventional reflections on their relationship. The artwork may involve a combination of AI algorithms, VR, and other techniques.
 
@@ -132,8 +131,27 @@ One way we might do this is to ask what plants hear. This simple question is alr
 
 
 ### September 2023
-📅 in
+📅 Week 1 Thought Fragments 🧩:
+Artists create concepts, but what do robots view? Emotions?
+How to resist unconscious combinations?
+AI as an extension of humans.
+Text segmentation extends infinitely, while images highlight features and pixels.
+Humans creating art for AI without using AI.
+Art for AI viewing and the world through AI’s eyes (serving humans) are two distinct concepts.
+Steganography: hiding information in artworks, like two identical images seen differently by AI.
+Artwork references: https://www.fluate.net/en/travaux/vectoglyph, http://guillaumeslizewicz.com/posts/2020/i_can_remember/, https://www.aiartonline.com/design/masaru-mizuochi/
 
+📅 Week 2: Went on a trip 🛫
+
+📅 Week 3: I planned to present artworks as seen by AI, experimenting with the Stable Diffusion model.
+https://www.zdnet.com/article/how-to-use-stable-diffusion-ai-to-create-amazing-images/
+Keras, https://keras.io/examples/generative/random_walks_with_stable_diffusion/
+https://github.com/AIMLModeling/LatentSpace
+https://medium.com/@outerrencedl/a-simple-autoencoder-and-latent-space-visualization-with-pytorch-568e4cd2112a
+https://hackernoon.com/latent-space-visualization-deep-learning-bits-2-bd09a46920df
+I attempted to run the original code of the Stable Diffusion model, but I was unsuccessful in printing the latent space. I then looked into some codes for t-SNE to visualize the latent space in AI models. However, this essentially serves humans and does not align with the concept of “AI as the audience.” Finally, I continued to consider other methods for my art experiment.​​
+
+📅 Week 4: Fell ill 😷, no progress on the project.
 
 
 ### October 2023
