@@ -1,8 +1,8 @@
 # MSc-Advanced-Project
 ## Introduction
-### AI audiences, please come in
+### AI audiences, please come in 🤖️
 
-### Video: 
+### 🎬 Video: 
 ![image]()
 
 ## My Blog
@@ -66,7 +66,7 @@ Research question: Exploring the presentation forms of artworks when AI acts as 
 Research methodology: Art experiments.
 From the perspective of the form of artwork presentation:
 1、How to transform artworks into a form that AI can understand?
-2、Experiment with creating art in the forms of images, text, and music that only AI can understand. They are meaningless in human world but meaningful in AI world
+2、Experiment with creating art in the forms of images, text, and music that only AI can understand. They are meaningless in human world but meaningful in AI world.
 
 From the perspective of AI's feedback results: 
 1、What type of work attracts AI the most? Those with high contrast, sequential, specific frequencies, highly regular or irregular ones? different with human preference. 
@@ -79,7 +79,9 @@ Technical references: t-SNE: https://mlart.co/?page=1&search=t-SNE, https://dist
 Adam recommended the work Botto (https://www.botto.com/) and the books Ways of Being (https://jamesbridle.com/books/ways-of-being/) and AI Art (http://www.openhumanitiespress.org/books/titles/ai-art/). He suggested I frame my thesis question as, "How can novel forms of artistic presentation help humans understand AI, with AI as the audience?" Technically, he advised me to try GANs, Autoencoders, and Diffusion models, and perhaps print out the latent space from the Diffusion models.
 
 📅 The second week I went on a trip. 🛫
+
 📅 In the third week, I read the book AI Art: Machine Visions and Warped Dreams. Here are some excerpts from my reading:
+
 Does art exist outside the clearly designated realm of human cultural practice? Will ai create new conditions and new audiences for art? What will art ‘after’ ai look like? Who will be its recipient?
 Questions of originality and of the genius of an individual producer are hence framed by a study of the wider context that produces conditions for the emergence of a particular art form – and that produces particular audiences which can identify, interpret and engage with that art form. These questions are therefore framed through what Michel Foucault has called an ‘author function’ (1992, 306): a wider discursive arrangement that stabilises into what a given cultural moment perceives as an ‘author’ or ‘artist’.
 call ‘ai imitation work’, also known as ‘style transfer’. This mode of artistic production departs from the classical conceptualisation of art in terms of mimesis, i.e. the imitation of nature and its representation. For aristotle, all art was mimetic, but mimesis, proceeding by addition and not just repetition, involved what we would today call a ‘remediation’ (Bolter and Grusin 2002) of nature. it was thus a form of creative engagement, although one that was not yet linked to the humanist notions of originality and genius. Unlike mimesis, ‘style transfer’ is pure mimicry: a belaboured resemblance which is also a masquerade. in the context of the ai industry, where much of this kind of mimicry art is being produced, we need to ask: what underpins those efforts and what is it they actually attempt to masquerade as?
@@ -87,6 +89,7 @@ The ‘computer’, be it in the shape of a data-processing machine, a robot or 
 ……
 
 📅 In the fourth week, I continued reading books and literature. Here are some excerpts from my reading:
+
 Dukaj goes so far as to suggest that, in the times of ai, human life is the only auratic form of art left to us, especially the way it escapes the digital record- ing and preprogrammed behaviour. he is not talking here about some unmediated encounter between two humans outside the technological setup or evoking similar humanist fantasies. it is the YouTube stars, pub- licising their lives and the branded products that shape them, that are for him the last artists of today, turn- ing lifestyle into an aesthetic experience while also externalising the knowledge about what it means to be human, and to behave like a human being, into the globally interconnected computer network. 
 This form of art enforces what Berardi has described as ‘mental subsumption’ (2017), whereby the automation of vision and of cognitive activity paves the way for the emergence of constantly stimulated yet passive subjectivity. it thus ultimately works in the service of neoliberal- ism, a mutated form of capitalism that, according to Byungchul han, ‘has discovered the psyche as a productive force’. Yet what gets produced here is ‘mental optimisation’ (han 2017), for which Big data, algorithms and ai serve as perfect conduits. han calls this state of events a psychopolitics, which is his variation on Foucault’s notion of biopolitics, whereby the subject mobilises technologies of the self not to create any forms of freedom but rather to succumb, ‘willingly – and even passionately’ (2017), to auto-exploitation (fig. 9)
 seeing like a Machine, Telling like a human
@@ -95,14 +98,52 @@ What is new about the FereT images is that they are not aimed at human eyes: as 
 
 
 ### August 2023
+📅 In the first week, I read books and literature. Here are some excerpts from my reading:
+From ‘Apple’ to ‘Anomaly’ can thus be positioned as one of the seeing machines analysed elsewhere by the artist – not because it sees anything by itself or even approximates the way machines see, but rather because ‘machines become autonomous systems that intervene and are coercive in the world’ (clark 2019). it thus symbolises a larger infrastructure of perception and cognition which is currently being constructed at different scales – and which, arguably, will soon change our ways of being in the world, as individuals and as citizens.
+
+For me, the concept of ‘nonhuman photography’ refers to photo- graphs that are not of, by or for the human (see Zylinska 2017, 5), encompassing images as diverse as depopulated vistas, satellite pictures and Qr codes. even though the opening premise of Nonhuman Photography is that today, in the age of ccTV, drone media, medical body scans and satellite imaging, photography has become increasingly decoupled from human agency and human vision, i have also suggested that even those images that have been taken by the human entail a nonhuman element.
+
+William henry Fox Talbot’s Lace from The Pencil of Nature, 1845 – an image that arguably hints at photog- raphy’s quintessentially algorithmic, pattern-based legacy (Batchen 2001, 169; Zylinska 2017, 182) – remedi- ated by Joanna Zylinska via Google’s deepdream, 2018.
+
+Novitskova took this spirit to her project, If Only You Could See What I’ve Seen with Your Eyes (fig. 13)
+Novitskova’s work offers a pre-monition of the world to come, a world in which not only the majority of images are not being taken with a human viewer in mind – an issue that preoccupies Trevor paglen too – but also one in which machines constantly perceive, communicate with and exist for other machines. Lykkeberg describes Novitskova’s project as looking as if it had been ‘made by and for who’s next’ (40). We could therefore perhaps suggest that, draw- ing on nonhuman databases and modes of perception, Novitskova creates work for an artificial intelligence which is not here yet, inviting a speculation on the future of different species. This is ai read as another intelligence. in this context, her extinction diagrams copied from the internet gain a new dimension – and a new audience.
+
+Yet many of the more interesting works, amongst which i locate novitskova’s project, do attempt to enact a defamiliarisation of not just ‘the environment’ (by showing it as damaged, disappear- ing or already gone) but also of us humans as recipients
+
+Intelligent work on artificial intelligence could therefore perhaps attempt to sever that link between the work of art and human vision, going beyond the mere aesthesis of human experience to open up the problem of the universe itself as sentient. ‘it is not the case that we begin life as observing, representing beings who then become through receptivity. rather, in the beginning is a dynamic and world-oriented receptivity from which organised cognition, and the sense of the self as subject or man emerges. it is from a primary open- ness to the world, a primarily sensed world, that there emerges the sense of one who sees’ (colebrook 2014, 20)
+……
+
+📅 In the second week, I continued reading books and literature. Here are some excerpts from my reading:
+"Our understanding of AI is shaped by commercial interests; they instill fear of AI in us to protect their profits. This book aims to change this mindset. One way to alter the essence of these relationships is to change how we think about intelligence: what it is, how it functions in the world, and who possesses it. Beyond the narrow frameworks offered by tech companies and the doctrine of human uniqueness (the idea that human intelligence is singular and superior among all beings), there lies an entire realm of different ways of thinking and being intelligent. The task of this book is to reimagine: to look beyond ourselves and our own creations, to glimpse other or many different kinds of intelligence that have always been here, right in front of us – in many cases, before us. By doing so, we might change our way of thinking about the world, thereby paving the way for a future that is less extractive, destructive, and unequal, and more just, kind, and regenerative."
+
+"In recent decades, a very different imagination of intelligence has been underway. On one hand, from the biological and behavioral sciences; on the other, from a growing appreciation and integration of indigenous and non-Western knowledge systems, this new way of understanding intelligence runs counter to the narratives of singularity and greed. More importantly, for our story, it challenges the notion that intelligence is unique and even particularly 'human.'"
+
+Establishing new relationships with non-human intelligence.
+
+The Turing Test defines AI as that which can imitate humans, but should we confront AI and grant it rights? Human judgments of intelligence are based on human standards. The mirror test. 
+Science is understanding a human-centered world in a human-centered way.
+
+📅 In the third week, I continued reading books and literature. Here are some excerpts from my reading:
+Somewhere between these two extremes – between the plant pot and the continental forest, between the microchip and the satellite – lies our actual lived experience, the place where our shared umwelts meet and mingle. For surely, as much as we differ, there must be points of overlap in our awareness, our sense of the world, which provide an opening to understanding. This turned out to be the case with my self-driving car; it was what Barbara Smuts discovered with the baboons. To understand a little of what plants mean and why they matter, we must discover what we have in common: the ways in which we share a world.
+One way we might do this is to ask what plants hear. This simple question is already rife with contestation – plants have no ears or other known receptors for sound waves. And yet, quite assuredly, they hear, as we shall prove. How they do so, what they do with that information, and what it means for our interrelationships are similar questions to those we ask ourselves about animal intelligence: how are we changed by encountering non-human senses and a non-human impression of the world?”
+……
+
+📅 In the fourth week, I was in the midst of moving 🏠.
 
 
 ### September 2023
+📅 
+
 
 
 ### October 2023
+📅 
+
 
 
 ### November 2023
+📅 
+
+
 
 ## Conclusion
