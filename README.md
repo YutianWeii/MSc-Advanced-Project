@@ -1,6 +1,6 @@
 # MSc-Advanced-Project
 ## Introduction
-### AI audiences, please come in 🤖️
+### AI audiences, please come in 🤖️🤖️🤖️
 In the context of post-humanism challenging anthropocentrism and the rapid development of AI art, the art world still lacks artworks created from non-human perspectives. Therefore, I aimed to regard AI as an audience rather than a tool, believing that an AI's dataset and model architecture constitute its "cognition." Through artistic experimentation, I designed an AI artist based on the Stable Diffusion model and three AI audiences based on the CLIP and GPT models but trained on different datasets, and completed the AI artwork "AI Audience, Please Come In" through their interaction. This work represents a new artistic experiment from AI to AI, reflecting the individuality of AI under new concepts and the broader possibilities of AI art, while also expressing the desire to treat non-human subjects equally.
 
 ### 🎬 Video: 
@@ -102,6 +102,7 @@ What is new about the FereT images is that they are not aimed at human eyes: as 
 
 ### August 2023
 📅 In the first week, I read books and literature. Here are some excerpts from my reading:
+
 From ‘Apple’ to ‘Anomaly’ can thus be positioned as one of the seeing machines analysed elsewhere by the artist – not because it sees anything by itself or even approximates the way machines see, but rather because ‘machines become autonomous systems that intervene and are coercive in the world’ (clark 2019). it thus symbolises a larger infrastructure of perception and cognition which is currently being constructed at different scales – and which, arguably, will soon change our ways of being in the world, as individuals and as citizens.
 
 For me, the concept of ‘nonhuman photography’ refers to photo- graphs that are not of, by or for the human (see Zylinska 2017, 5), encompassing images as diverse as depopulated vistas, satellite pictures and Qr codes. even though the opening premise of Nonhuman Photography is that today, in the age of ccTV, drone media, medical body scans and satellite imaging, photography has become increasingly decoupled from human agency and human vision, i have also suggested that even those images that have been taken by the human entail a nonhuman element.
@@ -117,6 +118,7 @@ Intelligent work on artificial intelligence could therefore perhaps attempt to s
 ……
 
 📅 In the second week, I continued reading books and literature. Here are some excerpts from my reading:
+
 "Our understanding of AI is shaped by commercial interests; they instill fear of AI in us to protect their profits. This book aims to change this mindset. One way to alter the essence of these relationships is to change how we think about intelligence: what it is, how it functions in the world, and who possesses it. Beyond the narrow frameworks offered by tech companies and the doctrine of human uniqueness (the idea that human intelligence is singular and superior among all beings), there lies an entire realm of different ways of thinking and being intelligent. The task of this book is to reimagine: to look beyond ourselves and our own creations, to glimpse other or many different kinds of intelligence that have always been here, right in front of us – in many cases, before us. By doing so, we might change our way of thinking about the world, thereby paving the way for a future that is less extractive, destructive, and unequal, and more just, kind, and regenerative."
 
 "In recent decades, a very different imagination of intelligence has been underway. On one hand, from the biological and behavioral sciences; on the other, from a growing appreciation and integration of indigenous and non-Western knowledge systems, this new way of understanding intelligence runs counter to the narratives of singularity and greed. More importantly, for our story, it challenges the notion that intelligence is unique and even particularly 'human.'"
@@ -127,6 +129,7 @@ The Turing Test defines AI as that which can imitate humans, but should we confr
 Science is understanding a human-centered world in a human-centered way.
 
 📅 In the third week, I continued reading books and literature. Here are some excerpts from my reading:
+
 Somewhere between these two extremes – between the plant pot and the continental forest, between the microchip and the satellite – lies our actual lived experience, the place where our shared umwelts meet and mingle. For surely, as much as we differ, there must be points of overlap in our awareness, our sense of the world, which provide an opening to understanding. This turned out to be the case with my self-driving car; it was what Barbara Smuts discovered with the baboons. To understand a little of what plants mean and why they matter, we must discover what we have in common: the ways in which we share a world.
 One way we might do this is to ask what plants hear. This simple question is already rife with contestation – plants have no ears or other known receptors for sound waves. And yet, quite assuredly, they hear, as we shall prove. How they do so, what they do with that information, and what it means for our interrelationships are similar questions to those we ask ourselves about animal intelligence: how are we changed by encountering non-human senses and a non-human impression of the world?”
 ……
@@ -383,8 +386,7 @@ After six months of effort, I completed a work co-created by an AI artist and th
 
 ## Easter Egg:
 I created a dataset entirely of false information and malicious text and applied it to the AI audience code, resulting in an unfriendly AI audience. 😈
+
 This AI audience will randomly appear during the exhibition.
-
-
 
 
