@@ -3,7 +3,7 @@
 ### AI Audience, Please Come In 🤖️🤖️🤖️
 In the context of post-humanism challenging anthropocentrism and the rapid development of AI art, the art world still lacks artworks created from non-human perspectives. Therefore, I aimed to regard AI as an audience rather than a tool, believing that an AI's dataset and model architecture constitute its "cognition." Through artistic experimentation, I designed an AI artist based on the Stable Diffusion model and three AI audiences based on the CLIP and GPT models but trained on different datasets, and completed the AI artwork "AI Audience, Please Come In" through their interaction. This work represents a new artistic experiment from AI to AI, reflecting the individuality of AI under new concepts and the broader possibilities of AI art, while also expressing the desire to treat non-human subjects equally.
 
-### 🎬 Video: 
+### 🎬 Video: https://youtu.be/H2O9SunuKBY?si=hj6GO8Pgn_o4fkHI
 
 <img src = "https://github.com/YutianWeii/jpg/blob/main/1.png" width = "800px">
 
@@ -377,7 +377,7 @@ Admission information:
 
 📅 In the third week, I completed my thesis "From AI to AI: Exploring Interactive Art Oriented Towards an 'AI as Audience' Under Post-Humanist Concepts" and produced a video for the general public about the artwork.
 
-<img src = "" width = "800px">
+<img src = "https://github.com/YutianWeii/jpg/blob/main/video.jpeg" width = "800px">
 
 
 ## Conclusion
