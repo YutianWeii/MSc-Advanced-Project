@@ -283,12 +283,12 @@ Abstract
    Equitably addressing humans, AI, and non-humans concerning post-humanism.
 
 Adam recommended several reference works and literature:
-https://news.artnet.com/art-world/mario-klingemann-aicca-robot-dog-2334802
-https://www.coindesk.com/consensus-magazine/2023/08/22/meet-botto-the-ai-artist-that-mints-its-own-nfts/
-https://genekogan.com/misc/AbrahamPoster.pdf
-https://medium.com/@genekogan/artist-in-the-cloud-8384824a75c7
-https://faculty.cc.gatech.edu/~hays/7476/projects/Aditi_Vasavi.pdf
-https://www.jakeelwes.com/project-sontag.html
+https://news.artnet.com/art-world/mario-klingemann-aicca-robot-dog-2334802, 
+https://www.coindesk.com/consensus-magazine/2023/08/22/meet-botto-the-ai-artist-that-mints-its-own-nfts/, 
+https://genekogan.com/misc/AbrahamPoster.pdf, 
+https://medium.com/@genekogan/artist-in-the-cloud-8384824a75c7, 
+https://faculty.cc.gatech.edu/~hays/7476/projects/Aditi_Vasavi.pdf, 
+https://www.jakeelwes.com/project-sontag.html, 
 https://www.jakeelwes.com/project-closedLoop.html
 
 He suggested I use the Stable Diffusion model for the AI artist to generate images and then train AI audiences with different datasets to generate varied texts.
@@ -375,6 +375,12 @@ Admission information:
 
 
 ## Conclusion
+After six months of effort, I completed a work co-created by an AI artist and three AI audiences. This piece offers a mode of AI interaction. People can change the datasets of AI audiences to generate texts in different styles or make AI audiences view artworks from various artists. We can even alter the models of the AI artist and AI audiences, enabling them to output different forms for interaction. I hope humanity can break away from anthropocentric thinking, starting by looking at others on an equal footing, and practice the post-humanist principles of equality, openness, and heterogeneity. As written in "Ways of Being", "By looking beyond ourselves and our own creations, we catch a glimpse of different kinds of intelligence that have always been here, right in front of us - in many cases, before us. In doing so, we might change our way of thinking about the world, paving the way for a future that is less extractive, destructive, and unequal, and more just, kind, and regenerative."
+
+
+## Easter Egg:
+I created a dataset entirely of false information and malicious text and applied it to the AI audience code, resulting in an unfriendly AI audience. 😈
+This AI audience will randomly appear during the exhibition.
 
 
 
