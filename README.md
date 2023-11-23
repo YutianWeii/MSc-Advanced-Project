@@ -3,6 +3,7 @@
 ### AI audiences, please come in 🤖️
 
 ### 🎬 Video: 
+
 ![image]()
 
 ## My Blog
@@ -227,7 +228,7 @@ Many AI Artists —> AI Audience (collective)
 
 One AI Artist —> Several AI Audiences with different backgrounds
 
-​​​​​​​​​​![image]()
+​​​​​​​​​​![image](https://github.com/YutianWeii/jpg/blob/main/flow1.png)
 
 Purpose: To endow AI with agency, reducing human influence; AI taking on different roles, with differences arising from these roles; The concept of the AI artist is human, hoping the AI audience's is not.
 I think perhaps randomly selecting AI audiences could be interesting. When an AI audience uses a dataset unrelated to the AI artist and its artwork, a kind of "mismatch" or "asynchronous" art experience might occur.
@@ -375,7 +376,7 @@ Admission information:
 
 
 ## Conclusion
-After six months of effort, I completed a work co-created by an AI artist and three AI audiences. This piece offers a mode of AI interaction. People can change the datasets of AI audiences to generate texts in different styles or make AI audiences view artworks from various artists. We can even alter the models of the AI artist and AI audiences, enabling them to output different forms for interaction. I hope humanity can break away from anthropocentric thinking, starting by looking at others on an equal footing, and practice the post-humanist principles of equality, openness, and heterogeneity. As written in "Ways of Being", "By looking beyond ourselves and our own creations, we catch a glimpse of different kinds of intelligence that have always been here, right in front of us - in many cases, before us. In doing so, we might change our way of thinking about the world, paving the way for a future that is less extractive, destructive, and unequal, and more just, kind, and regenerative."
+After six months of effort, I completed a work co-created by an AI artist and three AI audiences. This piece offers a mode of AI interaction. People can change the datasets of AI audiences to generate texts in different styles or make AI audiences view artworks from various artists. We can even alter the models of the AI artist and AI audiences, enabling them to output different forms for interaction. I hope humanity can break away from anthropocentric thinking, starting by looking at others on an equal footing, and practice the post-humanist principles of equality, openness, and heterogeneity. As written in Ways of Being, "By looking beyond ourselves and our own creations, we catch a glimpse of different kinds of intelligence that have always been here, right in front of us - in many cases, before us. In doing so, we might change our way of thinking about the world, paving the way for a future that is less extractive, destructive, and unequal, and more just, kind, and regenerative."
 
 
 ## Easter Egg:
